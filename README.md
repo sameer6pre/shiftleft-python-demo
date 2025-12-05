@@ -1,6 +1,5 @@
 # flask-webgoat
 
-flask-webgoat is a deliberately-vulnerable application written with the Flask
 web framework.
 
 ```
